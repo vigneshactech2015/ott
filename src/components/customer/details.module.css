@@ -1,0 +1,14 @@
+.backButton{
+    margin-left:10%!important;;
+}
+
+.detailsContainer{
+    background-color: #111;
+    height:100vh;
+}
+
+.moviename{
+    color:white;
+    text-align: center;
+    font-weight: 600;
+}

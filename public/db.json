@@ -1,0 +1,336 @@
+{
+    "customer":{
+        "originals": [
+      {
+        "id": 1,
+        "moviename": "Harry potter",
+        "description":"The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education.",
+        "image_url":"https://tse3.mm.bing.net/th?id=OIP.MNHbGVCljAbvuUStISSGwAHaLH&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/VyHV0BRtdxo"
+      },
+      {
+        "id": 2,
+        "moviename": "Spider man",
+        "description":"Spiderman is a fictional character of Marvel Comics created by Stan Lee. It first appeared in August 1962 in Amazing Fantasy comics. The story revolves around a boy who got bit by a radioactive spider which gives him a superpower. His superpower was to climb like a spider and swing through webs and super strength",
+        "image_url":"https://tse4.mm.bing.net/th?id=OIP.FfWnJeONMk6CHB0safsS5wHaLH&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/shW9i6k8cB0"
+      },
+      {
+        "id": 3,
+        "moviename": "Batman",
+        "description":"It stars Robert Pattinson as Bruce Wayne / Batman alongside Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, and Colin Farrell. The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's corrupt elite.",
+        "image_url":"https://tse4.mm.bing.net/th?id=OIP.BW1eurFwiC2ctaSCMoAVTwHaKl&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/mqqft2x_Aa4"
+      },
+      {
+        "id": 4,
+        "moviename": "Avatar",
+        "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+        "image_url":"https://tse2.mm.bing.net/th?id=OIP.TiyR_Si3i8yza3BIv4DzqgHaJw&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/d9MyW72ELq0"
+      },
+      {
+        "id": 5,
+        "moviename": "Titanic",
+        "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+        "image_url":"https://tse4.mm.bing.net/th?id=OIP.7uR8wG-FvAzxgXsNQOwyAgHaKG&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/I7c1etV7D7g"
+      },
+      {
+        "id": 6,
+        "moviename": "Pirates of carribean",
+        "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+        "image_url":"https://tse1.mm.bing.net/th?id=OIP.yStC-DUDEcz0a1LHU0DwwwHaLH&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/Hgeu5rhoxxY"
+      },
+      {
+        "id": 7,
+        "moviename": "Da vinci Code",
+        "description":"The Da Vinci Code is a 2006 American mystery thriller film directed by Ron Howard, written by Akiva Goldsman, and based on Dan Brown's 2003 novel of the same name. The first in the Robert Langdon film series, the film stars Tom Hanks, Audrey Tautou, Sir Ian McKellen, Alfred Molina, Jürgen Prochnow, Jean Reno and Paul Bettany.",
+        "image_url":"https://tse1.mm.bing.net/th?id=OIP.X0kZpl4PkLG2OmYO0OEHuwHaJz&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/5sU9MT8829k"
+      },
+      {
+        "id": 8,
+        "moviename": "Fast and Furious 7",
+        "description":"Furious 7 follows Dominic Toretto (Diesel), Brian O'Conner (Walker) and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6 (2013), until Deckard Shaw (Statham), a rogue special forces assassin seeking to avenge his comatose younger brother, puts them in danger once again.",
+        "image_url":"https://tse1.mm.bing.net/th?id=OIP.oykffzYTlfPIfli29XNCcgHaIJ&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/Skpu5HaVkOc"
+      },
+      {
+        "id": 9,
+        "moviename": "Conjuring 2",
+        "description":"The Conjuring 2 known in the United Kingdom as The Conjuring 2: The Enfield Case is a 2016 American supernatural horror film, directed by James Wan. The screenplay is by Chad Hayes, Carey W. Hayes, Wan, and David Leslie Johnson. It is the sequel to 2013's The Conjuring, the second installment in The Conjuring series, and the third installment in The Conjuring Universe franchise. Patrick Wilson and Vera Farmiga reprise their roles as paranormal investigators and authors Ed and Lorraine Warren from the first film. ",
+        "image_url":"https://tse1.mm.bing.net/th?id=OIP.qEr7yuLbpmgAof0H-_3NdwHaLH&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/KyA9AtUOqRM"
+      },
+      {
+        "id": 10,
+        "moviename": "Speed",
+        "description":"Speed is a 1994 American action film directed by Jan de Bont in his feature film directorial debut. The film stars Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton, and Jeff Daniels. Its premise revolves around a bus that is rigged by a terrorist to explode if its speed falls below 50 miles per hour.",
+        "image_url":"https://tse1.mm.bing.net/th?id=OIP.vdWQ1CY8XZzMJ6BK1JP2FQHaKq&pid=Api&P=0",
+        "video_url":"https://www.youtube.com/embed/wCh_sxggMFo"
+      }
+    ],
+    "trendingnow": [
+        {
+          "id": 11,
+          "moviename": "Thinuvu",
+          "description":"The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education.",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.BtzInXNCuxLF2NVGGMfOIwAAAA&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/jnBZboK17_A"
+        },
+        {
+          "id": 12,
+          "moviename": "Varisu",
+          "description":"Spiderman is a fictional character of Marvel Comics created by Stan Lee. It first appeared in August 1962 in Amazing Fantasy comics. The story revolves around a boy who got bit by a radioactive spider which gives him a superpower. His superpower was to climb like a spider and swing through webs and super strength",
+          "image_url":"https://tse3.mm.bing.net/th?id=OIP.jLriE3xFoKB0-AqnLcWdsAHaKh&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/9fux9swQ5AQ"
+        },
+        {
+          "id": 13,
+          "moviename": "KGF",
+          "description":"It stars Robert Pattinson as Bruce Wayne / Batman alongside Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, and Colin Farrell. The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's corrupt elite.",
+          "image_url":"https://tse4.mm.bing.net/th?id=OIP.oLwP2gBnaHyokSu8rm7V9QHaJ9&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/tLeTx5OdjZs"
+        },
+        {
+          "id": 14,
+          "moviename": "Dada",
+          "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+          "image_url":"https://tse3.mm.bing.net/th?id=OIP.MQXfy6iPtMSsmzipfoL6gwAAAA&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/23mMdgo0prk"
+        },
+        {
+          "id": 15,
+          "moviename": "PS 1",
+          "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.0To8cKaAY9LsguaWTl2oYwAAAA&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/2HbAWSIOY1s"
+        },
+        {
+          "id": 16,
+          "moviename": "Dasara",
+          "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.21xeD0sZxdX5UBQf-39q9QD8GL&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/QheyLKgRRIk"
+        },
+        {
+          "id": 17,
+          "moviename": "Pathu Thala",
+          "description":"The Da Vinci Code is a 2006 American mystery thriller film directed by Ron Howard, written by Akiva Goldsman, and based on Dan Brown's 2003 novel of the same name. The first in the Robert Langdon film series, the film stars Tom Hanks, Audrey Tautou, Sir Ian McKellen, Alfred Molina, Jürgen Prochnow, Jean Reno and Paul Bettany.",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.Ii7c0bCv3AFFx0VL-4pKGQAAAA&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/pnUUJY3HQZk"
+        },
+        {
+          "id": 18,
+          "moviename": "Leo",
+          "description":"Furious 7 follows Dominic Toretto (Diesel), Brian O'Conner (Walker) and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6 (2013), until Deckard Shaw (Statham), a rogue special forces assassin seeking to avenge his comatose younger brother, puts them in danger once again.",
+          "image_url":"https://tse4.explicit.bing.net/th?id=OIP.uzYHqc9GVLcLUYkOxjyBAwHaFj&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/qN3wfuPYTI4"
+        },
+        {
+          "id": 19,
+          "moviename": "Avatar",
+          "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.TiyR_Si3i8yza3BIv4DzqgHaJw&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/d9MyW72ELq0"
+        },
+        {
+          "id": 20,
+          "moviename": "Titanic",
+          "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+          "image_url":"https://tse4.mm.bing.net/th?id=OIP.7uR8wG-FvAzxgXsNQOwyAgHaKG&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/I7c1etV7D7g"
+        },
+        {
+          "id": 21,
+          "moviename": "Pirates of carribean",
+          "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+          "image_url":"https://tse1.mm.bing.net/th?id=OIP.yStC-DUDEcz0a1LHU0DwwwHaLH&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/Hgeu5rhoxxY"
+        }
+      ],
+      "toprated":[
+        {
+          "id": 21,
+          "moviename": "Farzi",
+          "description":"The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education.",
+          "image_url":"https://tse4.mm.bing.net/th?id=OIP.bPD1ieTFfgIqDc-7oWAbtwHaJQ&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/tG8sddrOqbg"
+        },
+        {
+          "id": 22,
+          "moviename": "Scam",
+          "description":"Spiderman is a fictional character of Marvel Comics created by Stan Lee. It first appeared in August 1962 in Amazing Fantasy comics. The story revolves around a boy who got bit by a radioactive spider which gives him a superpower. His superpower was to climb like a spider and swing through webs and super strength",
+          "image_url":"https://tse2.mm.bing.net/th?id=OIP.twkXf7Wg-URK_4D1hiysfQHaLH&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/ISORfez27og"
+        },
+        {
+          "id": 23,
+          "moviename": "Family Man",
+          "description":"It stars Robert Pattinson as Bruce Wayne / Batman alongside Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, and Colin Farrell. The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's corrupt elite.",
+          "image_url":"https://tse3.mm.bing.net/th?id=OIP.4TpmVLMv9yhpNio4lcHUVAHaFj&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/XatRGut65VI"
+        },
+        {
+          "id": 24,
+          "moviename": "Garmi",
+          "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+          "image_url":"https://tse1.mm.bing.net/th?id=OIP.6sO5I0Cfk8eJoEHNI9fE8QHaHV&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/EMkq4DgdpiY"
+        },
+        {
+          "id": 25,
+          "moviename": "Jubilee",
+          "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+          "image_url":"https://tse3.mm.bing.net/th?id=OIF.R9N3F8TBkEbAiStuS4%2bVwg&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/7-m9A6tC7A0"
+        },
+        {
+          "id": 26,
+          "moviename": "Ghosted",
+          "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+          "image_url":"https://tse4.mm.bing.net/th?id=OIP.F1JROwDCWMyrwrin6aAk6gHaKJ&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/IAdCsNtEuBU"
+        },
+        {
+          "id": 27,
+          "moviename": "Citadel",
+          "description":"The Da Vinci Code is a 2006 American mystery thriller film directed by Ron Howard, written by Akiva Goldsman, and based on Dan Brown's 2003 novel of the same name. The first in the Robert Langdon film series, the film stars Tom Hanks, Audrey Tautou, Sir Ian McKellen, Alfred Molina, Jürgen Prochnow, Jean Reno and Paul Bettany.",
+          "image_url":"https://tse1.mm.bing.net/th?id=OIP.2IAQ9BjD_FkwX51tsv1yEAHaE4&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/Ux9qnxnyl6g"
+        },
+        {
+          "id": 28,
+          "moviename": "Hunter",
+          "description":"Furious 7 follows Dominic Toretto (Diesel), Brian O'Conner (Walker) and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6 (2013), until Deckard Shaw (Statham), a rogue special forces assassin seeking to avenge his comatose younger brother, puts them in danger once again.",
+          "image_url":"https://tse1.mm.bing.net/th?id=OIP.f6IvVxe70_nFtZVERws8rwHaIZ&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/kWzkJn84Mbo"
+        },
+        {
+          "id": 29,
+          "moviename": "Gas Light",
+          "description":"The Conjuring 2 known in the United Kingdom as The Conjuring 2: The Enfield Case is a 2016 American supernatural horror film, directed by James Wan. The screenplay is by Chad Hayes, Carey W. Hayes, Wan, and David Leslie Johnson. It is the sequel to 2013's The Conjuring, the second installment in The Conjuring series, and the third installment in The Conjuring Universe franchise. Patrick Wilson and Vera Farmiga reprise their roles as paranormal investigators and authors Ed and Lorraine Warren from the first film. ",
+          "image_url":"https://tse4.mm.bing.net/th?id=OIF.KShuJ4qpKT7daVyFa2lh%2fg&pid=Api&P=0",
+          "video_url":"https://www.youtube.com/embed/bA00GJQbS1s"
+        }
+      ],
+   "action":  [
+    {
+      "id": 31,
+      "moviename": "Baby calm down",
+      "description":"The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education.",
+      "image_url":"https://tse4.mm.bing.net/th?id=OIP.kSr7TotflHF_af_Z0zIJPQAAAA&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/UKqnhrSdcoM"
+    },
+    {
+      "id": 32,
+      "moviename": "Aurora-Runway",
+      "description":"Spiderman is a fictional character of Marvel Comics created by Stan Lee. It first appeared in August 1962 in Amazing Fantasy comics. The story revolves around a boy who got bit by a radioactive spider which gives him a superpower. His superpower was to climb like a spider and swing through webs and super strength",
+      "image_url":"https://tse2.mm.bing.net/th?id=OIP.3UulN2i2drQVQGPmhQLKVQHaHa&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/d_HlPboLRL8"
+    },
+    {
+      "id": 33,
+      "moviename": "One Direction-Night Changes",
+      "description":"It stars Robert Pattinson as Bruce Wayne / Batman alongside Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, and Colin Farrell. The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's corrupt elite.",
+      "image_url":"https://tse2.explicit.bing.net/th?id=OIP.BWsWEtw1CpRBiurJL9K75AHaEK&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/syFZfO_wfMQ"
+    },
+    {
+      "id": 34,
+      "moviename": "Astrid - Hurts so good",
+      "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+      "image_url":"https://tse3.mm.bing.net/th?id=OIP.xjlkytnySVkH1n0yBKNgbwHaHa&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/4fqwVBuunxY"
+    },
+    {
+      "id": 35,
+      "moviename": "Alan Walker on my way",
+      "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+      "image_url":"https://tse3.mm.bing.net/th?id=OIP.Fp6-K1co-8ErwqNBYyYbJgHaLH&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/dhYOPzcsbGM"
+    },
+    {
+      "id": 36,
+      "moviename": "Ava Max-Into your Arms",
+      "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+      "image_url":"https://tse3.mm.bing.net/th?id=OIP.z3Wyrqi75gqVRFPLKFUerAHaLJ&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/rpdFcQbZ2TI"
+    },
+    {
+      "id": 37,
+      "moviename": "Eminem-Love the way you lie",
+      "description":"The Da Vinci Code is a 2006 American mystery thriller film directed by Ron Howard, written by Akiva Goldsman, and based on Dan Brown's 2003 novel of the same name. The first in the Robert Langdon film series, the film stars Tom Hanks, Audrey Tautou, Sir Ian McKellen, Alfred Molina, Jürgen Prochnow, Jean Reno and Paul Bettany.",
+      "image_url":"https://tse4.mm.bing.net/th?id=OIP.7Kzm6ptn_bhfDwNd_PB7FQHaLH&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/uelHwf8o7_U"
+    },
+    {
+      "id": 38,
+      "moviename": "Hymn for the weekend",
+      "description":"Furious 7 follows Dominic Toretto (Diesel), Brian O'Conner (Walker) and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6 (2013), until Deckard Shaw (Statham), a rogue special forces assassin seeking to avenge his comatose younger brother, puts them in danger once again.",
+      "image_url":"https://tse2.mm.bing.net/th?id=OIP.vDO4S-9Io9WrGjhiv7yptAHaHa&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/YykjpeuMNEk"
+    },
+    {
+      "id": 39,
+      "moviename": "Sia-Unstoppable",
+      "description":"The Conjuring known in the United Kingdom as The Conjuring: The Enfield Case is a 2016 American supernatural horror film, directed by James Wan. The screenplay is by Chad Hayes, Carey W. Hayes, Wan, and David Leslie Johnson. It is the sequel to 2013's The Conjuring, the second installment in The Conjuring series, and the third installment in The Conjuring Universe franchise. Patrick Wilson and Vera Farmiga reprise their roles as paranormal investigators and authors Ed and Lorraine Warren from the first film. ",
+      "image_url":"https://tse1.mm.bing.net/th?id=OIP.7W5OG6Gijb2Iqxfhh9JapQHaHa&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/YaEG2aWJnZ8"
+    },
+    {
+      "id": 40,
+      "moviename": "Dua Lipa-New Rules",
+      "description":"Speed is a 1997 American action film directed by Jan de Bont in his feature film directorial debut. The film stars Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton, and Jeff Daniels. Its premise revolves around a bus that is rigged by a terrorist to explode if its speed falls below 50 miles per hour.",
+      "image_url":"https://tse3.mm.bing.net/th?id=OIP.pF0QcqDiCrOVG4IsuzxvcgHaNK&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/k2qgadSvNyU"
+    }
+  ] ,
+  "comedy":[
+    {
+      "id": 41,
+      "moviename": "CSK VS MI",
+      "description":"The film is the first instalment of the Harry Potter film series and was written by Steve Kloves and produced by David Heyman. Its story follows Harry Potter's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his education.",
+      "image_url":"https://tse1.mm.bing.net/th?id=OIF.XFc%2bkA%2f76QalIIYTrLQJ%2bw&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/yXvPy8js3PQ"
+    },
+    {
+      "id": 42,
+      "moviename": "France vs Argentina",
+      "description":"Spiderman is a fictional character of Marvel Comics created by Stan Lee. It first appeared in August 1962 in Amazing Fantasy comics. The story revolves around a boy who got bit by a radioactive spider which gives him a superpower. His superpower was to climb like a spider and swing through webs and super strength",
+      "image_url":"https://tse4.mm.bing.net/th?id=OIP.Arp3LHWKI46mQQJXvVhsoQHaFO&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/mJ9meVj8c3w"
+    },
+    {
+      "id": 43,
+      "moviename": "Nadal vs roger",
+      "description":"It stars Robert Pattinson as Bruce Wayne / Batman alongside Zoë Kravitz, Paul Dano, Jeffrey Wright, John Turturro, Peter Sarsgaard, Andy Serkis, and Colin Farrell. The film sees Batman, who has been fighting crime in Gotham City for two years, uncover corruption while pursuing the Riddler (Dano), a serial killer who targets Gotham's corrupt elite.",
+      "image_url":"https://tse1.mm.bing.net/th?id=OIP.-JLpwjgDEc8rXLbxQftAswHaFj&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/9gUvgm23qMU"
+    },
+    {
+      "id": 44,
+      "moviename": "Moto Gp",
+      "description":"2009's Avatar is a science fiction film that takes place in the year 2154 on the fictional alien planet of Pandora. This planet is a habitable moon within the Alpha Centauri system, and with Earth’s natural resources being depleted, humans are attempting to colonize Pandora to acquire the extremely valuable material known as unobtanium (I know what you’re thinking, and yes, that is its actual name).",
+      "image_url":"https://tse4.mm.bing.net/th?id=OIP.APG-9FVPNVMkrHvLnDh7KAHaE8&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/gYmXQRlVpvU"
+    },
+    {
+      "id": 45,
+      "moviename": "NBA",
+      "description":"Titanic is a 1997 American epic romantic disaster movie. It was directed, written, and co-produced by James Cameron. The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two play characters who are of different social classes.",
+      "image_url":"https://tse2.mm.bing.net/th?id=OIP.IWwrEMNPseS9JJ9gEtLK5gHaJy&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/hjUF3Poct1g"
+    },
+    {
+      "id": 46,
+      "moviename": "100m",
+      "description":"Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name",
+      "image_url":"https://tse1.mm.bing.net/th?id=OIP.g9mvUgj9IDK53s7t22A3sgHaHa&pid=Api&P=0",
+      "video_url":"https://www.youtube.com/embed/93dC0o2aHto"
+    }
+  ]
+}
+  }
