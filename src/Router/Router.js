@@ -6,7 +6,6 @@ import loaderImage from "../loader.gif"
 const LoginComponent = React.lazy(()=>import('../components/login/Login'))
 const AdminDashboard = React.lazy(()=>import('../components/admin/AdminDashboard'))
 const CustomerDashboard = React.lazy(()=>import('../components/customer/CustomerDashboard'));
-const ManagerDashboard = React.lazy(()=>import('../components/manager/ManagerDashboard'))
 const ErrorComponent = React.lazy(()=>import('../components/Error/ErrorComponent'))
 const Details = React.lazy(()=>import('../components/customer/Details'))
 function Router() {
@@ -19,7 +18,6 @@ function Router() {
     <Route exact path="/admin" element={<AdminDashboard/>}/>
     <Route exact path="/customer" element={<CustomerDashboard/>}/>
     <Route exact path="/customer/details" element={<Details/>}/>
-    <Route exact path="/manager" element={<ManagerDashboard/>}/>
     <Route exact path="*" element={<ErrorComponent/>}/>
     </Routes>
     </Suspense>
